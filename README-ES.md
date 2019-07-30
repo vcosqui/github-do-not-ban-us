@@ -10,7 +10,7 @@ Consejo: ¡Puedes usar [esta extensión](https://github.com/MohamadKh75/ShutHub)
 
 ## Introducción
 
-GitHub solía ser una plataforma abierta y libre para todos, pero ha decidió restringir la contribución de las cuentas iraníes desplazándolas del ecosistema de open-source.
+GitHub solía ser una plataforma abierta y libre para todos, pero ha decidido restringir la contribución de las cuentas iraníes desplazándolas del ecosistema de open-source.
 A pesar de que entendemos que GitHub ha podido tomar esta decisión debido a la presión del gobierno estadounidense, esperábamos una acción más respetuosa por parte de GitHub.
 
 
@@ -50,7 +50,7 @@ Algunos ejemplos de proyectos open-source creados por desarrolladores iraníes:
 
 Puedes encontrar la lista al completo [aquí](https://github.com/mohebifar/made-in-iran).
 
-## Como puedes ayudarnos
+## Cómo puedes ayudarnos
 
 Puedes difundir el mensaje en todos los sitios que puedas, y mantener el Software Libre "como la libertad de expresión".
 Puedes:
@@ -63,8 +63,8 @@ Puedes:
 
 ## Lecturas adicionales
 
-  - [Microsoft enters: GitHub banned Iránian developers!](https://medium.com/@d.aliyamini/microsoft-enters-github-banned-iranian-developers-843f7c60a146)
-  - [GitHub banned Irán-based users](https://financialtribune.com/articles/sci-tech/99111/github-bans-iran-based-users)
+  - [Microsoft enters: GitHub banned Iranian developers!](https://medium.com/@d.aliyamini/microsoft-enters-github-banned-iranian-developers-843f7c60a146)
+  - [GitHub banned Iran-based users](https://financialtribune.com/articles/sci-tech/99111/github-bans-iran-based-users)
   - [GitHub has blocked an Iránian software developer account](https://hub.packtpub.com/github-has-blocked-an-iranian-software-developers-account)
   - [GitHub starts blocking developers in countries facing US trade sanctions](https://www.zdnet.com/article/github-starts-blocking-developers-in-countries-facing-us-trade-sanctions)
 
